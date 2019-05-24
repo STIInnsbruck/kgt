@@ -2,9 +2,9 @@
 SEMANTICS 2019 Tutorial: How to build a knowledge graph
 
 ## Agenda:
-September 9, 2019 
-13:30	- 15:00 Tutorial Part 1 
-15:00 - 15:30	COFFEE BREAK 
+September 9, 2019  
+13:30	- 15:00 Tutorial Part 1  
+15:00 - 15:30	COFFEE BREAK  
 15:30 - 17:30 Tutorial Part 2 
 
 More information about the program can be found on [the conference's tutorial program website](http://semantics.cc/programme)
